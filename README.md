@@ -1,2 +1,2 @@
 # Hello-World
-Completed Code you assignment
+This repository is for practicing the GitHub Flow.
